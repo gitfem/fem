@@ -5,6 +5,6 @@
 - 📫 How to reach me ...Holla me @ https://www.linkedin.com/in/caleb-emiju-738233205/ or Email - femconsults@gmail.com
 
 <!---
-gitfem/gitfem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fem/fem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
